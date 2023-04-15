@@ -6,7 +6,7 @@ Documento con las personas, escenarios y _costumer journey_.
 
 <a  href =  "https://docs.google.com/document/d/126pMqwCj8YUohs-T_HMmrE_zGTLidUYjpPVAZbmkjbo/edit?usp=sharing"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Google_Docs_2020_Logo.svg/500px-Google_Docs_2020_Logo.svg.png" width = 150 heigth = 250> </a>
 
-
+El objetivo de este proyecto es ayudar a diseñar un sistema informático a una clínica en contra de crímenes de los derechos humanos.
 
 
 ### Autores
