@@ -1,4 +1,4 @@
-# Justicieros-de-la-Justicia-Proyecto-Final
+# Justicieros de la Justicia: Proyecto Final
 
 ### Primer entregable (31/03/2023)
 #### User experience
