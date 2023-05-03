@@ -45,6 +45,7 @@ CREATE TABLE actividad (
    end_time TIMESTAMP,
    prioridad INTEGER NOT NULL,
    proyecto_id INTEGER REFERENCES proyecto(id) ON DELETE CASCADE
+   link VARCHAR(255)
 );
 
 CREATE TABLE asignar (
