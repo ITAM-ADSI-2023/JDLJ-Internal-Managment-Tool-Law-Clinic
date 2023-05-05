@@ -1,0 +1,17 @@
+id_usuario,nombre_usuario,contrasena,email,nombre,apellido,rol
+1,carlos_01,123456,carlos_01@example.com,Carlos,Ortega,alumno
+2,ana_02,abc123,ana_02@example.com,Ana,Pérez,alumno
+3,juan_03,ilovecats,juan_03@example.com,Juan,García,alumno
+4,luisa_04,secret123,luisa_04@example.com,Luisa,Rodríguez,coordinador
+5,diego_05,mypassword,diego_05@example.com,Diego,González,administrador
+6,mariana_06,hola123,mariana_06@example.com,Mariana,Rodríguez,alumno
+7,sandra_07,letmein,sandra_07@example.com,Sandra,Flores,coordinador
+8,oscar_08,football123,oscar_08@example.com,Óscar,Sánchez,alumno
+9,verónica_09,qwerty,verónica_09@example.com,Verónica,Ramírez,coordinador
+10,pablo_10,admin123,pablo_10@example.com,Pablo,López,administrador
+11,andrea_11,pass123,andrea_11@example.com,Andrea,Gutiérrez,alumno
+12,pedro_12,mipass,pedro_12@example.com,Pedro,Ruíz,coordinador
+13,martín_13,letmein123,martín_13@example.com,Martín,Mendoza,alumno
+14,silvia_14,iloveyou,silvia_14@example.com,Silvia,Vázquez,coordinador
+15,ana_15,hello123,ana_15@example.com,Ana,Rodríguez,alumno
+
