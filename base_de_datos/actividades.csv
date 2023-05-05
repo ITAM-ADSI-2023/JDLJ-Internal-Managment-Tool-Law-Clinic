@@ -1,0 +1,21 @@
+id_actividad,nombre_actividad,id_proyecto,prioridad
+1,Ver video de capacitación,1,Alta
+2,Investigar antecedentes del caso,1,Alta
+3,Preparar argumentos para la audiencia,1,Alta
+4,Revisar documentos de la acusación,1,Media
+5,Entrevistar a testigos,1,Media
+6,Hacer un reporte de investigación,2,Alta
+7,Leer artículos sobre casos similares,2,Baja
+8,Analizar datos estadísticos,2,Media
+9,Revisar antecedentes del acusado,2,Media
+10,Elaborar presentación para conferencia,3,Alta
+11,Organizar agenda de eventos,3,Media
+12,Contactar a medios de comunicación,3,Media
+13,Redactar comunicado de prensa,4,Alta
+14,Planificar la estrategia de defensa,4,Alta
+15,Preparar documentos legales,4,Media
+16,Realizar entrevistas con las víctimas,5,Alta
+17,Analizar el marco jurídico del caso,5,Alta
+18,Revisar la documentación del expediente,5,Media
+19,Elaborar estrategia de litigio,5,Media
+20,Preparar argumentos para la audiencia,5,Baja
