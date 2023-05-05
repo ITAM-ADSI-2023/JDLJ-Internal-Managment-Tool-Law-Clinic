@@ -1,0 +1,22 @@
+id_caso,fecha_inicio,nombre_caso,contacto,num_contacto,actor,tipo_de_persona
+1,2022-01-15,Campaña de Asesoría Jurídica para la Defensa de los Derechos Humanos,María García,55 1234 5678,María García,Persona Física
+2,2022-03-05,Apoyo a la Familia de Víctima de Discriminación,Juan Pérez,55 8765 4321,Organización Social por la Dignidad Humana,Persona Moral
+3,2022-04-20,Defensa Legal para Comunidades Indígenas,Carlos Hernández,55 2468 1357,Asociación de Abogados por los Derechos Colectivos,Persona Moral
+4,2022-05-10,Ayuda Legal para Trabajadores Inmigrantes,Laura Rodríguez,55 3691 2580,Cooperativa de Abogados Solidarios,Persona Moral
+5,2022-06-01,Asesoría para la Protección de los Derechos de la Mujer,Raquel Gómez,55 8642 9753,Grupo Feminista por la Justicia Social,Persona Moral
+6,2022-06-15,Representación Legal en Casos de Desalojo,David García,55 1357 2468,Asociación de Abogados por la Vivienda Digna,Persona Moral
+7,2022-07-01,Asesoría Legal para Personas de Bajos Recursos,Antonio Sánchez,55 9753 8642,Despacho Jurídico Popular,Persona Moral
+8,2022-07-20,Defensa Legal para Víctimas de Violencia Policial,Carmen Martínez,55 2580 3691,Colectivo de Abogados por la Justicia y la Igualdad,Persona Moral
+9,2022-08-05,Asistencia Jurídica para Inmigrantes y Refugiados,José García,55 4321 8765,Organización por los Derechos de los Migrantes,Persona Moral
+10,2022-09-01,Apoyo a la Lucha contra la Explotación Laboral,Ana Pérez,55 5678 1234,Sindicato por la Justicia Social,Persona Moral
+11,2022-09-15,Asesoramiento Legal para Personas con Discapacidad,Juan Fernández,55 1111 1111,Asociación de Abogados por la Inclusión,Persona Moral
+12,2022-10-01,Representación Legal para Trabajadoras Domésticas,María López,55 2222 2222,Colectivo por la Justicia Laboral,Persona Moral
+13,2022-11-01,Defensa Legal para Víctimas de Discriminación de Género,Raquel Gómez,55 3333 3333,Organización por los Derechos de la Mujer,Persona Moral
+14,2022-11-15,Asesoría Legal para Pueblos Originarios,Carlos Hernández,55 4444 4444,Colectivo de Abogados por los Derechos Indígenas,Persona Moral
+15,2022-12-01,Asesoría Legal para Divorcio,Marta Sánchez,55 3898 2002,Marta Sánchez,Persona Física
+16,2022-12-01,Asesoría Legal para Inquilinos,Alejandra García,55 5555 5555,Asociación de Abogados por los Derechos de la Vivienda,Persona Moral
+17,2023-01-01,Asistencia Legal para Personas LGBT+,Jorge Martínez,55 6666 6666,Organización por la Diversidad Sexual,Persona Moral
+18,2023-02-01,Asesoramiento Jurídico para Migrantes,Luisa Pérez,55 7777 7777,Colectivo de Abogados por los Derechos de los Migrantes,Persona Moral
+19,2023-02-15,Defensa Legal para Víctimas de Trata de Personas,María González,55 8888 8888,Asociación por la Abolición de la Trata de Personas,Persona Moral
+20,2023-03-01,Asistencia Jurídica para Personas en Situación de Calle,Roberto Sánchez,55 9999 9999,Organización por la Justicia Social y la Vivienda Digna,Persona Moral
+21,2023-04-01,Representación Legal para Personas Enfermas y Discapacitadas,Laura Rodríguez,55 0000 0000,Asociación de Abogados por la Inclusión,Persona Moral
