@@ -1,5 +1,11 @@
 # Justicieros de la Justicia: Proyecto Final
 
+## URL
+
+Nota: Nuestro proyecto necesita permisos sensibles para el acceso a Google Drive.
+
+https://clinicaitam.retool.com/apps/1ecae3ae-e843-11ed-bbc4-2f5a2ccd17b4/ClinicaITAM
+
 ### Primer entregable (31/03/2023)
 #### User experience
 Documento con las personas, escenarios y _costumer journey_.
